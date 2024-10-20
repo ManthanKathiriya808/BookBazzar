@@ -1,0 +1,58 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: poppins;
+}
+
+
+:root{
+    --primary:#0573F0;
+}
+
+.primary-clr{
+    color: var(--primary);
+}
+.primary-bg{
+    background-color: var(--primary);
+}
+
+/* swiper */
+
+
+.swiper {
+    width: 100%;
+    height: 100%;
+  }
+
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  /* a */
+
+
+  .a{
+    text-decoration: none;
+    color: black;
+  }
+
+
+
+  
+
+  
+
+  
