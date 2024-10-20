@@ -49,10 +49,45 @@
     color: black;
   }
 
-
-
+.bg-img-1{
+  background-image: url("img/img4.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: fixed;
+  background-attachment: fixed;
+   /* Add the blur effect */
+  filter: blur(4px);
+  -webkit-filter: blur(2px);
   
 
-  
+}
 
+.bg-text {
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
+  border-radius: 30px;
+  color: white;
+  font-weight: bold;
+  border: 3px solid #f1f1f1;
+  position: absolute;
+  top:50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 10;
+  width: 80%;
+  padding: 20px;
+  text-align: center;
+}
+
+  
+.swiper-button-next:after, .swiper-rtl .swiper-button-prev:after{
+  position:relative !important;
+
+  color: gainsboro;
+}
+.swiper-button-prev:after, .swiper-rtl .swiper-button-prev:after{
+  position:absolute !important;
+  left:0;
+  color: gainsboro;
+}
   
