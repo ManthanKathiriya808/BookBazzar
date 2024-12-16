@@ -6,7 +6,7 @@ let prod = [
       "subtitle": "A Psychological Thriller",
       "button": "Buy Now",
       "url": "https://example.com/the-silent-patient",
-      "image": "https://via.placeholder.com/150", 
+      "image": "https://tse2.mm.bing.net/th?id=OIP.J_-fevbwKDFE9bxErqUFDQHaHa&pid=Api&P=0&h=180", 
       "price": "499",
       "currency": "INR",
       "category": "Fiction"
@@ -18,7 +18,7 @@ let prod = [
       "subtitle": "A Memoir",
       "button": "Buy Now",
       "url": "https://example.com/educated",
-      "image": "https://via.placeholder.com/150",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.NgCUeUpmYub2s1Ob603mVwHaLX&pid=Api&P=0&h=180",
       "price": "599",
       "currency": "INR",
       "category": "Non-Fiction"
@@ -30,7 +30,7 @@ let prod = [
       "subtitle": "A Novel",
       "button": "Buy Now",
       "url": "https://example.com/the-alchemist",
-      "image": "https://via.placeholder.com/150",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.4e1QFdOlXG9h9tnoctE5eAHaLO&pid=Api&P=0&h=180",
       "price": "399",
       "currency": "INR",
       "category": "Fiction"
@@ -42,7 +42,7 @@ let prod = [
       "subtitle": "Why We Do What We Do in Life and Business",
       "button": "Buy Now",
       "url": "https://example.com/the-power-of-habit",
-      "image": "https://via.placeholder.com/150",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.BH3sVYo3SOEXT3Rt34XZpgHaLb&pid=Api&P=0&h=180",
       "price": "450",
       "currency": "INR",
       "category": "Non-Fiction"
@@ -54,7 +54,7 @@ let prod = [
       "subtitle": "Book 1 of the Harry Potter Series",
       "button": "Buy Now",
       "url": "https://example.com/harry-potter-1",
-      "image": "https://via.placeholder.com/150",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.jNgYY1ri0tyRFvNAhtEKuAHaLH&pid=Api&P=0&h=180",
       "price": "699",
       "currency": "INR",
       "category": "Children's Books"
@@ -66,7 +66,7 @@ let prod = [
       "subtitle": "Powerful Lessons in Personal Change",
       "button": "Buy Now",
       "url": "https://example.com/7-habits",
-      "image": "https://via.placeholder.com/150",
+      "image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781471195709/the-7-habits-of-highly-effective-people-revised-and-updated-9781471195709_hr.jpg",
       "price": "550",
       "currency": "INR",
       "category": "Self-Help"
@@ -78,7 +78,7 @@ let prod = [
       "subtitle": "A Novel",
       "button": "Buy Now",
       "url": "https://example.com/the-great-gatsby",
-      "image": "https://via.placeholder.com/150",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.YY-2rOTwqOzDvIoBMaRluQHaLH&pid=Api&P=0&h=180",
       "price": "399",
       "currency": "INR",
       "category": "Fiction"
@@ -90,7 +90,7 @@ let prod = [
       "subtitle": "A Memoir",
       "button": "Buy Now",
       "url": "https://example.com/becoming",
-      "image": "https://via.placeholder.com/150",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.e__NEYvJpiqMPy4lAR_zHgHaLQ&pid=Api&P=0&h=180",
       "price": "799",
       "currency": "INR",
       "category": "Non-Fiction"
@@ -102,7 +102,7 @@ let prod = [
       "subtitle": "A Novel",
       "button": "Buy Now",
       "url": "https://example.com/the-catcher-in-the-rye",
-      "image": "https://via.placeholder.com/150",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.yJGYYWW0pq6F6LGDM4eRdAHaLZ&pid=Api&P=0&h=180",
       "price": "450",
       "currency": "INR",
       "category": "Fiction"
@@ -114,7 +114,7 @@ let prod = [
       "subtitle": "A Non-Fiction Book",
       "button": "Buy Now",
       "url": "https://example.com/sapiens",
-      "image": "https://via.placeholder.com/150",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.qgdxu8qbZ-MRPgOLWVDfiwHaLh&pid=Api&P=0&h=180",
       "price": "699",
       "currency": "INR",
       "category": "Non-Fiction"
@@ -126,7 +126,7 @@ let prod = [
       "subtitle": "A Counterintuitive Approach to Living a Good Life",
       "button": "Buy Now",
       "url": "https://example.com/subtle-art",
-      "image": "https://via.placeholder.com/150",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.tCH1-f-ZUjn42dHI5BiFgwHaLG&pid=Api&P=0&h=180",
       "price": "499",
       "currency": "INR",
       "category": "Self-Help"
@@ -138,7 +138,7 @@ let prod = [
       "subtitle": "The Definitive Edition",
       "button": "Buy Now",
       "url": "https://example.com/diary-of-a-young-girl",
-      "image": "https://via.placeholder.com/150",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.ZK440LfpcTG8kUx1alypggHaMF&pid=Api&P=0&h=180",
       "price": "399",
       "currency": "INR",
       "category": "Non-Fiction"
@@ -150,7 +150,7 @@ let prod = [
       "subtitle": "A Novel",
       "button": "Buy Now",
       "url": "https://example.com/the-fault-in-our-stars",
-      "image": "https://via.placeholder.com/150",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.x47fWkni_C5XjNn_pTDx0gAAAA&pid=Api&P=0&h=180",
       "price": "499",
       "currency": "INR",
       "category": "Fiction"
@@ -162,7 +162,7 @@ let prod = [
       "subtitle": "A Novel",
       "button": "Buy Now",
       "url": "https://example.com/the-book-thief",
-      "image": "https://via.placeholder.com/150",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.uku2xwMicBxR1GpShg9b1wHaHa&pid=Api&P=0&h=180",
       "price": "599",
       "currency": "INR",
       "category": "Fiction"
@@ -174,7 +174,7 @@ let prod = [
       "subtitle": "An Ancient Chinese Military Treatise",
       "button": "Buy Now",
       "url": "https://example.com/the-art-of-war",
-      "image": "https://via.placeholder.com/150",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.L9Fv7vlw7I6cmY_gskr3EQHaL2&pid=Api&P=0&h=180",
       "price": "299",
       "currency": "INR",
       "category": "Exam Books"
@@ -186,7 +186,7 @@ let prod = [
       "subtitle": "A Science Fiction Classic",
       "button": "Buy Now",
       "url": "https://example.com/hitchhikers-guide",
-      "image": "https://via.placeholder.com/150",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.aPegFMj32wnH8tdvbS0a5QHaL2&pid=Api&P=0&h=180",
       "price": "399",
       "currency": "INR",
       "category": "Fiction"
@@ -198,7 +198,7 @@ let prod = [
       "subtitle": "The Story of a Woman Who Changed Medicine",
       "button": "Buy Now",
       "url": "https://example.com/immortal-life",
-      "image": "https://via.placeholder.com/150",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.cq0Px6MTppLepZ3_vG7yvQAAAA&pid=Api&P=0&h=180",
       "price": "499",
       "currency": "INR",
       "category": "Non-Fiction"
@@ -210,7 +210,7 @@ let prod = [
       "subtitle": "A Novella",
       "button": "Buy Now",
       "url": "https://example.com/the-little-prince",
-      "image": "https://via.placeholder.com/150",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.z6-lgAX-hrD-gcw7mScu0wHaKp&pid=Api&P=0&h=180",
       "price": "350",
       "currency": "INR",
       "category": "Children's Books"
@@ -222,7 +222,7 @@ let prod = [
       "subtitle": "A Novel",
       "button": "Buy Now",
       "url": "https://example.com/the-kite-runner",
-      "image": "https://via.placeholder.com/150",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.16aZmdjT01t2Mybn0vu83wHaLt&pid=Api&P=0&h=180",
       "price": "499",
       "currency": "INR",
       "category": "Fiction"
@@ -234,7 +234,7 @@ let prod = [
       "subtitle": "Lasting Happiness in a Changing World",
       "button": "Buy Now",
       " url": "https://example.com/book-of-joy",
-      "image": "https://via.placeholder.com/150",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.ZVYPGDp8WdxsfuM2lJGQJwHaLZ&pid=Api&P=0&h=180",
       "price": "599",
       "currency": "INR",
       "category": "Non-Fiction"
@@ -246,7 +246,7 @@ let prod = [
       "subtitle": "The Complete Chronicles",
       "button": "Buy Now",
       "url": "https://example.com/narnia",
-      "image": "https://via.placeholder.com/150",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.atlp4tZEQ4-Ec394qDSsbgHaK9&pid=Api&P=0&h=180",
       "price": "799",
       "currency": "INR",
       "category": "Children's Books"
@@ -258,7 +258,7 @@ let prod = [
       "subtitle": "Master the Game of Life",
       "button": "Buy Now",
       "url": "https://example.com/48-laws",
-      "image": "https://via.placeholder.com/150",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.sT1MaDHOdiR3A_JGVzL3hQHaKz&pid=Api&P=0&h=180",
       "price": "699",
       "currency": "INR",
       "category": "Self-Help"
@@ -270,7 +270,7 @@ let prod = [
       "subtitle": "A Novel",
       "button": "Buy Now",
       "url": "https://example.com/the-road",
-      "image": "https://via.placeholder.com/150",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.Gx0ngC_Ys-CsLS5F8_wlBAHaJ4&pid=Api&P=0&h=180",
       "price": "450",
       "currency": "INR",
       "category": "Fiction"
@@ -282,7 +282,7 @@ let prod = [
       "subtitle": "A Novel",
       "button": "Buy Now",
       "url": "https://example.com/girl-on-the-train",
-      "image": "https://via.placeholder.com/150",
+      "image": "https://up.yimg.com/ib/th?id=OIP.1JBFY7HGjHTEg3jPbybBmQHaLe&pid=Api&rs=1&c=1&qlt=95&w=75&h=116",
       "price": "499",
       "currency": "INR",
       "category": "Fiction"
@@ -294,7 +294,7 @@ let prod = [
       "subtitle": "A Handbook for Living",
       "button": "Buy Now",
       "url": "https://example.com/art-of-happiness",
-      "image": "https://via.placeholder.com/150",
+      "image": "https://up.yimg.com/ib/th?id=OIP.BoyTkm8pEkY7YBbxfFxD6wHaHa&pid=Api&rs=1&c=1&qlt=95&w=104&h=104",
       "price": "399",
       "currency": "INR",
       "category": "Self-Help"
@@ -306,7 +306,7 @@ let prod = [
       "subtitle": "The Power of Positive Thinking",
       "button": "Buy Now",
       "url": "https://example.com/the-secret",
-      "image": "https://via.placeholder.com/150",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.XcGw51XF-jwJd-luzXKDQQHaLJ&pid=Api&P=0&h=180",
       "price": "499",
       "currency": "INR",
       "category": "Self-Help"
@@ -318,7 +318,7 @@ let prod = [
       "subtitle": "The Danish Way to Live Well",
       "button": "Buy Now",
       "url": "https://example.com/little-book-of-hygge",
-      "image": "https://via.placeholder.com/150",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.PDf-diGFRf4UauKgbgK9OwHaHa&pid=Api&P=0&h=180",
       "price": "399",
       "currency": "INR",
       "category": "Non-Fiction"
@@ -330,7 +330,7 @@ let prod = [
       "subtitle": "A Novel",
       "button": "Buy Now",
       "url": "https://example.com/night-circus",
-      "image": "https://via.placeholder.com/150",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.D_J7IwRCIOS5BuzA0HAROwHaLY&pid=Api&P=0&h=180",
       "price": "599",
       "currency": "INR",
       "category": "Fiction"
@@ -342,7 +342,7 @@ let prod = [
       "subtitle": "Own Your Morning, Elevate Your Life",
       "button": "Buy Now",
       "url": "https://example.com/5-am-club",
-      "image": "https://via.placeholder.com/150",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.2-H7vCYGEC3T9qsxcRVAxwHaLQ&pid=Api&P=0&h=180",
       "price": "499",
       "currency": "INR",
       "category": "Self-Help"
@@ -354,7 +354,7 @@ let prod = [
       "subtitle": "A Guide to Understanding Yourself",
       "button": "Buy Now",
       "url": " https://example.com/book-of-life",
-      "image": "https://via.placeholder.com/150",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.2oo_Qke2OruTBVtg2nNAvQHaOG&pid=Api&P=0&h=180",
       "price": "599",
       "currency": "INR",
       "category": "Philosophy"
