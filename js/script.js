@@ -1,5 +1,13 @@
 let product = document.querySelector("#product")
+let search =document.getElementById("search")
 
+search.addEventListener("keyup",function(e){
+    let val = e.target.value.toUpperCase()
+
+    let searchData = prod.filter((ele) => !ele.title.toUpperCase().indexOf(val) || !ele.category.toUpperCase().indexOf(val) )
+
+    subData(searchData)
+})
 
 function all(){
     let subProd =prod.filter((ele) => ele)
@@ -22,7 +30,7 @@ function self(){
     subData(subProd)
 }
 function philosophy(){
-    let subProd =prod.filter((ele) => ele.category =="philosophy")
+    let subProd =prod.filter((ele) => ele.category =="Philosophy")
     subData(subProd)
 }
 function exam(){
