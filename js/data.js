@@ -358,5 +358,53 @@ let prod = [
       "price": "599",
       "currency": "INR",
       "category": "Philosophy"
-    }
+    },
+    {
+      "id": 31,
+      "title": "The Little Book of Hygge",
+      "author": "Jiddu Krishnamurti",
+      "subtitle": "A Guide to Understanding Yourself",
+      "button": "Buy Now",
+      "url": " https://example.com/book-of-life",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.NgCUeUpmYub2s1Ob603mVwHaLX&pid=Api&P=0&h=180",
+      "price": "431",
+      "currency": "INR",
+      "category": "new release"
+    },
+    {
+      "id": 32,
+      "title": "The Book of Life",
+      "author": "Jiddu Krishnamurti",
+      "subtitle": "A Guide to Understanding Yourself",
+      "button": "Buy Now",
+      "url": " https://example.com/book-of-life",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.2oo_Qke2OruTBVtg2nNAvQHaOG&pid=Api&P=0&h=180",
+      "price": "529",
+      "currency": "INR",
+      "category": "new release"
+    },
+    {
+      "id": 33,
+      "title": "The Girl on the Train",
+      "author": "Jiddu Krishnamurti",
+      "subtitle": "A Guide to Understanding Yourself",
+      "button": "Buy Now",
+      "url": " https://example.com/book-of-life",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.D_J7IwRCIOS5BuzA0HAROwHaLY&pid=Api&P=0&h=180",
+      "price": "689",
+      "currency": "INR",
+      "category": "new release"
+    },
+    {
+      "id": 34,
+      "title": "The Art of Happiness",
+      "author": "Jiddu Krishnamurti",
+      "subtitle": "A Guide to Understanding Yourself",
+      "button": "Buy Now",
+      "url": " https://example.com/book-of-life",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.Gx0ngC_Ys-CsLS5F8_wlBAHaJ4&pid=Api&P=0&h=180",
+      "price": "599",
+      "currency": "INR",
+      "category": "new release"
+    },
   ]
